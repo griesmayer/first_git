@@ -1,4 +1,4 @@
 CREATE TABLE STUDENT
 (
-
+    NAME VARCHAR(50);
 );
