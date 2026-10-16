@@ -1,5 +1,6 @@
 public class Student {
-    private int    alter;
+    private String  name;
+    private int     alter;
     private boolean abend;
     private String  abteilung;
 } 
